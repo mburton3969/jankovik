@@ -1,4 +1,4 @@
- <!-- Page Header-->
+  <!-- Page Header-->
       <header class="section page-header">
         <!-- RD Navbar-->
         <div class="rd-navbar-wrap">
@@ -8,250 +8,64 @@
                 <!-- RD Navbar Nav-->
                 <div class="rd-navbar-item">
                   <div class="rd-navbar-column">
-                    <div class="rd-navbar-nav-wrap">
+                    <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li><a href="./">Home</a>
+                        <li class="active"><a href="index.php">Home</a>
+                        </li>
+                        <li><a href="about-us.php">About</a>
                           <!-- RD Navbar Dropdown-->
                           <ul class="rd-navbar-dropdown">
-                            <li><a href="home-1.html">Home 1</a></li>
-                            <li><a href="home-2.html">Home 2</a></li>
-                            <li><a href="home-3.html">Home 3</a></li>
-                            <li><a href="home-4.html">Home 4</a></li>
+                          <li><a href="chiropractic.php">Chiropractic</a></li>
+                          <li><a href="massage.php">Massage</a></li>
+                          <li><a href="nutrition.php">Nutrition</a></li>
+                          <li><a href="allergy.php">Allergy</a></li>
                           </ul>
                         </li>
-                        <li class="active"><a href="about-us.html">About</a>
-                          <!-- RD Navbar Dropdown-->
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="overview.html">Overview</a></li>
-                            <li><a href="history.html">History</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="press.html">Press</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
-                            <li><a href="careers.html">Careers</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="products.html">Products</a>
-                          <!-- RD Navbar Dropdown-->
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="products-for-face.html">Face</a></li>
-                            <li><a href="products-for-face.html">Body</a></li>
-                            <li><a href="products-for-face.html">Hair</a></li>
-                            <li><a href="products-for-face.html">Hands-Feet</a></li>
-                            <li><a href="products-for-face.html">Spa</a></li>
-                            <li><a href="products-for-face.html">Careers</a></li>
-                            <li><a href="products-for-face.html">Baby</a></li>
-                            <li><a href="products-for-face.html">For Men</a></li>
-                            <li><a href="products-for-face.html">Sets</a>
-                              <!-- RD Navbar Dropdown-->
-                              <ul class="rd-navbar-dropdown">
-                                <li><a href="single-product.html">Single product</a></li>
-                              </ul>
-                            </li>
-                          </ul>
-                        </li>
-                      </ul>
                     </div>
                   </div>
                   <div class="rd-navbar-column rd-navbar-column-bottom">
-                    <ul class="navbar-inline-list">
+                    <ul class="navbar-inline-list" style="margin:auto;">
                       <li class="rd-navbar-info rd-navbar-info-lg">
-                        <div class="icon icon-xs fa fa-home"></div><a href="#">USA, LOS ANGELES, 901 East E Street, Wilmington, CA 90744</a>
+                        <div class="icon icon-xs fa fa-home"></div><a href="#">1309 Veale Road, Wilmington, DE 19810 </a>
                       </li>
                     </ul>
+                   </ul>
                   </div>
                 </div>
                 <!-- RD Navbar Panel-->
                 <div class="rd-navbar-item rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav"><span class="toggle-icon"></span></button>
-                  <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/brand2-192x130.png" alt="" width="192" height="130"/><img class="brand-mini" src="images/brand-mini-186x104.png" alt="" width="186" height="104"/></a>
+                  <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/brand/logo.jpg" alt="" width="192" height="130"/><img class="brand-mini" src="images/brand/logo.jpg" alt="" width="186" height="104"/></a>
                 </div>
                 <!-- RD Navbar Nav-->
                 <div class="rd-navbar-item">
                   <div class="rd-navbar-column">
-                    <div class="rd-navbar-nav-wrap">
+                    <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li><a href="news.html">News</a>
-                          <!-- RD Navbar Dropdown-->
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="single-post.html">Single post</a></li>
-                          </ul>
+                        <li><a href="contact.php">Contact</a>
                         </li>
-                        <li><a href="locations.html">Locations</a></li>
-                        <li><a href="#">Pages</a>
-                          <!-- RD Navbar Megamenu-->
-                          <ul class="rd-navbar-megamenu">
-                            <li>
-                              <p class="rd-megamenu-header">About</p>
-                              <ul class="rd-megamenu-list">
-                                <li><a href="testimonials.html">testimonials</a></li>
-                                <li><a href="press.html">press</a></li>
-                                <li><a href="faqs.html">faqs</a></li>
-                                <li><a href="careers.html">careers</a></li>
-                              </ul>
-                            </li>
-                            <li>
-                              <p class="rd-megamenu-header">Products</p>
-                              <ul class="rd-megamenu-list">
-                                <li><a href="products-for-face.html">Face</a></li>
-                                <li><a href="products-for-face.html">Body</a></li>
-                                <li><a href="products-for-face.html">Hair</a></li>
-                                <li><a href="products-for-face.html">Hands-Feet</a></li>
-                                <li><a href="products-for-face.html">Spa</a></li>
-                                <li><a href="products-for-face.html">Careers</a></li>
-                                <li><a href="products-for-face.html">Baby</a></li>
-                                <li><a href="products-for-face.html">For Men</a></li>
-                                <li><a href="products-for-face.html">Sets</a>
-                                  <ul class="rd-navbar-dropdown">
-                                    <li><a href="single-product.html">Single product</a></li>
-                                  </ul>
-                                </li>
-                              </ul>
-                            </li>
-                            <li>
-                              <p class="rd-megamenu-header">Pages</p>
-                              <ul class="rd-megamenu-list">
-                                <li><a href="media.html">Media</a>
-                                  <ul class="rd-navbar-dropdown">
-                                    <li><a href="grid-gallery.html">Grid Gallery</a></li>
-                                  </ul>
-                                </li>
-                                <li><a href="404.html">404 page</a></li>
-                                <li><a href="503.html">503 page</a></li>
-                                <li><a href="maintenance.html">Maintenance</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
-                                <li><a href="login.html">Login page</a></li>
-                                <li><a href="register.html">Registration</a></li>
-                                <li><a href="search-results.html">Search Results</a></li>
-                                <li><a href="site-map.html">Site Map</a></li>
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                              </ul>
-                            </li>
-                            <li>
-                              <p class="rd-megamenu-header">Pages +</p>
-                              <ul class="rd-megamenu-list">
-                                <li><a href="typography.html">Typography</a></li>
-                                <li><a href="tabs-and-accordions.html">Tabs & Accordions</a></li>
-                                <li><a href="progress-bars.html">Progress bars</a></li>
-                                <li><a href="tables.html">Tables</a></li>
-                                <li><a href="forms.html">Forms</a></li>
-                                <li><a href="buttons.html">Buttons</a></li>
-                                <li><a href="grid.html">Grid</a></li>
-                              </ul>
-                            </li>
-                          </ul>
-                        </li>
+                          <li><a href="blog.php">Blog</a>
+                          </li>
                       </ul>
                       <div class="rd-navbar-nav-hidden">
                         <!-- RD Navbar Nav-->
+                        
                         <ul class="rd-navbar-nav">
-                          <li><a href="./">Home</a>
+                          <li class="active"><a href="index.php">Home</a>
+  
+                          <li><a href="about-us.php">About</a>
                             <!-- RD Navbar Dropdown-->
                             <ul class="rd-navbar-dropdown">
-                              <li><a href="home-1.html">Home 1</a></li>
-                              <li><a href="home-2.html">Home 2</a></li>
-                              <li><a href="home-3.html">Home 3</a></li>
-                              <li><a href="home-4.html">Home 4</a></li>
+                              <li><a href="chiropractic.php">Chiropractic</a></li>
+                          <li><a href="massage.php">Massage</a></li>
+                          <li><a href="nutrition.php">Nutrition</a></li>
+                          <li><a href="allergy.php">Allergy</a></li>
                             </ul>
                           </li>
-                          <li class="active"><a href="about-us.html">About</a>
-                            <!-- RD Navbar Dropdown-->
-                            <ul class="rd-navbar-dropdown">
-                              <li><a href="overview.html">Overview</a></li>
-                              <li><a href="history.html">History</a></li>
-                              <li><a href="testimonials.html">Testimonials</a></li>
-                              <li><a href="press.html">Press</a></li>
-                              <li><a href="faqs.html">FAQ</a></li>
-                              <li><a href="careers.html">Careers</a></li>
-                            </ul>
+                          <li><a href="contact.php">Contact</a></li>
+                          <li><a href="blog.php">Blog</a></li>
                           </li>
-                          <li><a href="products.html">Products</a>
-                            <!-- RD Navbar Dropdown-->
-                            <ul class="rd-navbar-dropdown">
-                              <li><a href="products-for-face.html">Face</a></li>
-                              <li><a href="products-for-face.html">Body</a></li>
-                              <li><a href="products-for-face.html">Hair</a></li>
-                              <li><a href="products-for-face.html">Hands-Feet</a></li>
-                              <li><a href="products-for-face.html">Spa</a></li>
-                              <li><a href="products-for-face.html">Careers</a></li>
-                              <li><a href="products-for-face.html">Baby</a></li>
-                              <li><a href="products-for-face.html">For Men</a></li>
-                              <li><a href="products-for-face.html">Sets</a>
-                                <!-- RD Navbar Dropdown-->
-                                <ul class="rd-navbar-dropdown">
-                                  <li><a href="single-product.html">Single product</a></li>
-                                </ul>
-                              </li>
-                            </ul>
-                          </li>
-                          <li><a href="news.html">News</a>
-                            <!-- RD Navbar Dropdown-->
-                            <ul class="rd-navbar-dropdown">
-                              <li><a href="single-post.html">Single post</a></li>
-                            </ul>
-                          </li>
-                          <li><a href="locations.html">Locations</a></li>
-                          <li><a href="#">Pages</a>
-                            <!-- RD Navbar Megamenu-->
-                            <ul class="rd-navbar-megamenu">
-                              <li>
-                                <p class="rd-megamenu-header">About</p>
-                                <ul class="rd-megamenu-list">
-                                  <li><a href="testimonials.html">testimonials</a></li>
-                                  <li><a href="press.html">press</a></li>
-                                  <li><a href="faqs.html">faqs</a></li>
-                                  <li><a href="careers.html">careers</a></li>
-                                </ul>
-                              </li>
-                              <li>
-                                <p class="rd-megamenu-header">Products</p>
-                                <ul class="rd-megamenu-list">
-                                  <li><a href="products-for-face.html">Face</a></li>
-                                  <li><a href="products-for-face.html">Body</a></li>
-                                  <li><a href="products-for-face.html">Hair</a></li>
-                                  <li><a href="products-for-face.html">Hands-Feet</a></li>
-                                  <li><a href="products-for-face.html">Spa</a></li>
-                                  <li><a href="products-for-face.html">Careers</a></li>
-                                  <li><a href="products-for-face.html">Baby</a></li>
-                                  <li><a href="products-for-face.html">For Men</a></li>
-                                  <li><a href="products-for-face.html">Sets</a>
-                                    <ul class="rd-navbar-dropdown">
-                                      <li><a href="single-product.html">Single product</a></li>
-                                    </ul>
-                                  </li>
-                                </ul>
-                              </li>
-                              <li>
-                                <p class="rd-megamenu-header">Pages</p>
-                                <ul class="rd-megamenu-list">
-                                  <li><a href="media.html">Media</a>
-                                    <ul class="rd-navbar-dropdown">
-                                      <li><a href="grid-gallery.html">Grid Gallery</a></li>
-                                    </ul>
-                                  </li>
-                                  <li><a href="404.html">404 page</a></li>
-                                  <li><a href="503.html">503 page</a></li>
-                                  <li><a href="maintenance.html">Maintenance</a></li>
-                                  <li><a href="coming-soon.html">Coming Soon</a></li>
-                                  <li><a href="login.html">Login page</a></li>
-                                  <li><a href="register.html">Registration</a></li>
-                                  <li><a href="search-results.html">Search Results</a></li>
-                                  <li><a href="site-map.html">Site Map</a></li>
-                                  <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                </ul>
-                              </li>
-                              <li>
-                                <p class="rd-megamenu-header">Pages +</p>
-                                <ul class="rd-megamenu-list">
-                                  <li><a href="typography.html">Typography</a></li>
-                                  <li><a href="tabs-and-accordions.html">Tabs & Accordions</a></li>
-                                  <li><a href="progress-bars.html">Progress bars</a></li>
-                                  <li><a href="tables.html">Tables</a></li>
-                                  <li><a href="forms.html">Forms</a></li>
-                                  <li><a href="buttons.html">Buttons</a></li>
-                                  <li><a href="grid.html">Grid</a></li>
-                                </ul>
-                              </li>
                             </ul>
                           </li>
                         </ul>
@@ -263,13 +77,13 @@
                   <div class="rd-navbar-column rd-navbar-column-bottom rd-navbar-panel-mobile">
                     <ul class="navbar-inline-list">
                       <li class="rd-navbar-info rd-navbar-info-hidden">
-                        <div class="icon icon-xs fa fa-home"></div><a href="#">USA, LOS ANGELES, 901 East E Street, Wilmington, CA 90744</a>
+                        <div class="icon icon-xs fa fa-home"></div><a href="#">1309 Veale Road, Wilmington, DE 19810</a>
                       </li>
                       <li class="rd-navbar-info">
-                        <div class="icon icon-xs fa fa-phone"></div><a href="tel:#">+1 (800) 123 1234</a>
+                        <div class="icon icon-xs fa fa-phone"></div><a href="tel:#">1 (302) 384-8540</a>
                       </li>
                       <li class="rd-navbar-info">
-                        <div class="rd-navbar-social"><a class="link fa fa-twitter" href="#"></a><a class="link fa fa-facebook" href="#"></a><a class="link fa fa-linkedin" href="#"></a><a class="link fa fa-google" href="#"></a></div>
+                        <div class="rd-navbar-social"><a class="link fa fa-twitter" style="color:black;" href="https://twitter.com/"></a><a class="link fa fa-facebook" style="color:black;" href="https://www.facebook.com/"></a><a class="link fa fa-instagram" style="color:black;" href="https://www.instagram.com/"></a></div>
                       </li>
                     </ul>
                   </div>
