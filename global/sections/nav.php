@@ -36,7 +36,8 @@
                 <div class="rd-navbar-item rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav"><span class="toggle-icon"></span></button>
-                  <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/brand/logo.jpg" alt="" width="192" height="130"/><img class="brand-mini" src="images/brand/logo.jpg" alt="" width="186" height="104"/></a>
+                  <!-- RD Navbar Brand-->
+                  <a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/jankovic/logos/jcwlogo.png"/><img class="brand-mini" src="images/brand/logo.jpg" alt="" width="186" height="104"/></a>
                 </div>
                 <!-- RD Navbar Nav-->
                 <div class="rd-navbar-item">

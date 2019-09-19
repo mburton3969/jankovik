@@ -53,9 +53,9 @@
               <div class="row justify-content-center">
                 <div class="col-md-9 col-xl-8">
                   <div class="jumbotron-custom">
-                    <div class="light-box" style="opacity: 0.8;"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
-                      <h2 class="title">Welcome to Jankovic Chiropractic</h2>
-                      <!-- <div class="exeption">100% Natural and Active ingredients, without water, mineral oils, propylene glycol and other petrochemicals, phthalates, perfumes, dyes, triethanolamine, parabens etc.</div> 
+                    <div class="light-box" style="opacity: 0.8;"><img src="images/jankovic/logos/logo.jpg"/>
+                      <!-- <h2 class="title"></h2>
+                       <div class="exeption">100% Natural and Active ingredients, without water, mineral oils, propylene glycol and other petrochemicals, phthalates, perfumes, dyes, triethanolamine, parabens etc.</div> 
                     </div>
                     <div class="primary-box"><a class="button button-white" href="products.html">View products</a></div> -->
                   </div>
@@ -109,7 +109,7 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/home-1-1-570x403.jpg" alt="" width="570" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/picture.jpg" alt="" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
@@ -128,7 +128,7 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0 flex-lg-row-reverse">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/home-1-2-570x403.jpg" alt="" width="570" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/chiro.jpg" alt="" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
@@ -190,7 +190,7 @@
           <!-- Owl Carousel-->
           <div class="owl-carousel" data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="3" data-xl-items="3" data-xxl-items="3" data-dots="true" data-nav="true" data-stage-padding="28" data-xxl-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
             <div class="price-box">
-              <div class="figure"><a href="single-product.html"><img src="images/product-category-7-370x270.jpg" alt="" width="370" height="270"/></a></div>
+              <div class="figure"><a href="single-product.html"><img src="images/jankovic/lobby.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
                 <div class="title"><a href="blog.php">Blog Post Example</a></div>
                 <p class="exeption">This is an example blog post caption</p>
@@ -198,7 +198,7 @@
               </div>
             </div>
             <div class="price-box">
-              <div class="figure"><a href="single-product.html"><img src="images/product-category-8-370x270.jpg" alt="" width="370" height="270"/></a></div>
+              <div class="figure"><a href="single-product.html"><img src="images/jankovic/oils.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
                 <div class="title"><a href="blog.php">Instagram Post Example</a></div>
                 <p class="exeption">This is an example social media post caption</p>
@@ -206,7 +206,7 @@
               </div>
             </div>
             <div class="price-box">
-              <div class="figure"><a href="single-product.html"><img src="images/product-category-9-370x270.jpg" alt="" width="370" height="270"/></a></div>
+              <div class="figure"><a href="single-product.html"><img src="images/jankovic/welcome.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
                 <div class="title"><a href="blog.php">Facebook Post Example</a></div>
                 <p class="exeption">This is an example social media post caption</p>

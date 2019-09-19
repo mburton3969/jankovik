@@ -1,5 +1,5 @@
  <!-- Page Footer-->
-      <footer class="page-footer-default bg-image bg-image-21">
+      <footer class="page-footer-default bg-image bg-image-sign">
         <div class="container">
           <div class="row row-30">
             <div class="col-sm-6 col-md-3">
