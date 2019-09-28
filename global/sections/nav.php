@@ -10,15 +10,15 @@
                   <div class="rd-navbar-column">
                     <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li class="active"><a href="index.php">Home</a>
+                        <li class="active"><a href="index.html">Home</a>
                         </li>
-                        <li><a href="about-us.php">About</a>
+                        <li><a href="about-us.html">About</a>
                           <!-- RD Navbar Dropdown-->
                           <ul class="rd-navbar-dropdown">
-                          <li><a href="chiropractic.php">Chiropractic</a></li>
-                          <li><a href="massage.php">Massage</a></li>
-                          <li><a href="nutrition.php">Nutrition</a></li>
-                          <li><a href="allergy.php">Allergy</a></li>
+                          <li><a href="chiropractic.html">Chiropractic</a></li>
+                          <li><a href="massage.html">Massage</a></li>
+                          <li><a href="nutrition.html">Nutrition</a></li>
+                          <li><a href="allergy.html">Allergy</a></li>
                           </ul>
                         </li>
                     </div>
@@ -46,26 +46,26 @@
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
                         <li><a href="contact.php">Contact</a>
                         </li>
-                          <li><a href="blog.php">Blog</a>
+                          <li><a href="blog.html">Blog</a>
                           </li>
                       </ul>
                       <div class="rd-navbar-nav-hidden">
                         <!-- RD Navbar Nav-->
                         
                         <ul class="rd-navbar-nav">
-                          <li class="active"><a href="index.php">Home</a>
+                          <li class="active"><a href="index.html">Home</a>
   
-                          <li><a href="about-us.php">About</a>
+                          <li><a href="about-us.html">About</a>
                             <!-- RD Navbar Dropdown-->
                             <ul class="rd-navbar-dropdown">
-                              <li><a href="chiropractic.php">Chiropractic</a></li>
-                          <li><a href="massage.php">Massage</a></li>
-                          <li><a href="nutrition.php">Nutrition</a></li>
-                          <li><a href="allergy.php">Allergy</a></li>
+                              <li><a href="chiropractic.html">Chiropractic</a></li>
+                          <li><a href="massage.html">Massage</a></li>
+                          <li><a href="nutrition.html">Nutrition</a></li>
+                          <li><a href="allergy.html">Allergy</a></li>
                             </ul>
                           </li>
-                          <li><a href="contact.php">Contact</a></li>
-                          <li><a href="blog.php">Blog</a></li>
+                          <li><a href="contact.html">Contact</a></li>
+                          <li><a href="blog.html">Blog</a></li>
                           </li>
                             </ul>
                           </li>
