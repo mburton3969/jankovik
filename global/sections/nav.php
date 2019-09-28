@@ -44,7 +44,7 @@
                   <div class="rd-navbar-column">
                     <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li><a href="contact.php">Contact</a>
+                        <li><a href="contact.html">Contact</a>
                         </li>
                           <li><a href="blog.html">Blog</a>
                           </li>
