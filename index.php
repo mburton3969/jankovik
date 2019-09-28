@@ -101,7 +101,7 @@
               </div>
             </div>-->
           </div>
-          <div class="button-custom-wrapper"><a class="button button-primary" href="about-us.php">Read more about us</a></div> 
+          <div class="button-custom-wrapper"><a class="button button-primary" href="about-us.html">Read more about us</a></div> 
         </div>
       </section>
       <!-- Chiropractic Section -->
@@ -116,7 +116,7 @@
               <div class="row justify-content-center">
                 <div class="col-lg-8">
                   <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="" width="58" height="60"/>Chiropractic Services</span></h1>
-                  <p>Chiropractic helps your body heal naturally by using spinal adjustments to correct vertebral misalignments in the spine. Dr. Jankovic uses many different techniques to correct vertebral subluxations, most of which are gentile, low force techniques.</p><a class="button button-primary" href="chiropractic.php">Learn More</a>
+                  <p>Chiropractic helps your body heal naturally by using spinal adjustments to correct vertebral misalignments in the spine. Dr. Jankovic uses many different techniques to correct vertebral subluxations, most of which are gentile, low force techniques.</p><a class="button button-primary" href="chiropractic.html">Learn More</a>
                 </div>
               </div>
             </div>
@@ -135,7 +135,7 @@
               <div class="row justify-content-center">
                 <div class="col-lg-8">
                   <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-3-57x60.png" alt="" width="57" height="60"/>Massage Services</span></h1>
-                  <p>This is a description example of different massage services offered through Jankovic Chiropractic.</p><a class="button button-primary" href="massage.php">Learn More</a>
+                  <p>This is a description example of different massage services offered through Jankovic Chiropractic.</p><a class="button button-primary" href="massage.html">Learn More</a>
                 </div>
               </div>
             </div>
@@ -149,8 +149,8 @@
             <div class="col-md-6 d-flex">
               <div class="cta bg-image bg-cta-1">
                 <div class="cta-inner">
-                  <h3 class="title">Advanced <a href="allergy.php">Allergy</a> Therapeutics</h3>
-                  <h6 class="exeption">A highly effective, alternative therapy in treating allergies and sensitivities.</h6><a class="button button-primary" href="allergy.php">Learn More</a>
+                  <h3 class="title">Advanced <a href="allergy.html">Allergy</a> Therapeutics</h3>
+                  <h6 class="exeption">A highly effective, alternative therapy in treating allergies and sensitivities.</h6><a class="button button-primary" href="allergy.html">Learn More</a>
                 </div>
               </div>
             </div>
@@ -158,7 +158,7 @@
               <div class="cta bg-image bg-cta-2">
                 <div class="cta-inner">
                   <h3 class="title">Nutrition Assessment</h3>
-                  <h6 class="exeption">Based on blood work analysis, organ and endocrine system evaluation.</h6><a class="button button-primary" href="products-for-face.html">Learn More</a>
+                  <h6 class="exeption">Based on blood work analysis, organ and endocrine system evaluation.</h6><a class="button button-primary" href="nutrition.html">Learn More</a>
                 </div>
               </div>
             </div>
@@ -192,7 +192,7 @@
             <div class="price-box">
               <div class="figure"><a href="single-product.html"><img src="images/jankovic/lobby.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
-                <div class="title"><a href="blog.php">Blog Post Example</a></div>
+                <div class="title"><a href="blog.html">Blog Post Example</a></div>
                 <p class="exeption">This is an example blog post caption</p>
                 <a class="button button-primary" href="#">Blog Page</a>
               </div>
@@ -200,7 +200,7 @@
             <div class="price-box">
               <div class="figure"><a href="single-product.html"><img src="images/jankovic/oils.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
-                <div class="title"><a href="blog.php">Instagram Post Example</a></div>
+                <div class="title"><a href="blog.html">Instagram Post Example</a></div>
                 <p class="exeption">This is an example social media post caption</p>
                 <a class="button button-primary" href="#">Instagram Profile</a>
               </div>
@@ -208,7 +208,7 @@
             <div class="price-box">
               <div class="figure"><a href="single-product.html"><img src="images/jankovic/welcome.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
-                <div class="title"><a href="blog.php">Facebook Post Example</a></div>
+                <div class="title"><a href="blog.html">Facebook Post Example</a></div>
                 <p class="exeption">This is an example social media post caption</p>
                 <a class="button button-primary" href="#">Facebook Page</a>
               </div>
