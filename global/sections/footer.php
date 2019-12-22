@@ -23,7 +23,7 @@
               <h1 class="heading-decorative">Get in touch</h1>
               <ul class="contact-list">
                 <li>1309 Veale Road, Wilmington, DE 19810</li>
-                <li><a href="tel:#">1 (302) 384-8540</a><br><span>E-mail:</span><a href="mailto:#"> drstephenjankovic@gmail.com</a></li>
+                <li><a href="tel:#">1 (302) 478-1443</a><br><span>E-mail:</span><a href="mailto:#"> jankovicchiropractic@gmail.com</a></li>
               </ul>
               <h1 class="heading-decorative">Newsletter</h1>
               <!-- RD Mailform-->

@@ -10,15 +10,15 @@
                   <div class="rd-navbar-column">
                     <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li class="active"><a href="index.html">Home</a>
+                        <li class="active"><a href="index.php">Home</a>
                         </li>
-                        <li><a href="about-us.html">About</a>
+                        <li><a href="about-us.php">About</a>
                           <!-- RD Navbar Dropdown-->
                           <ul class="rd-navbar-dropdown">
-                          <li><a href="chiropractic.html">Chiropractic</a></li>
-                          <li><a href="massage.html">Massage</a></li>
-                          <li><a href="nutrition.html">Nutrition</a></li>
-                          <li><a href="allergy.html">Allergy</a></li>
+                          <li><a href="chiropractic.php">Chiropractic</a></li>
+                          <li><a href="massage.php">Massage</a></li>
+                          <li><a href="nutrition.php">Nutrition</a></li>
+                          <li><a href="allergy.php">Allergy</a></li>
                           </ul>
                         </li>
                     </div>
@@ -37,35 +37,35 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav"><span class="toggle-icon"></span></button>
                   <!-- RD Navbar Brand-->
-                  <a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/jankovic/logos/jcwlogo.png"/><img class="brand-mini" src="images/brand/logo.jpg" alt="" width="186" height="104"/></a>
+                  <a class="rd-navbar-brand" href="./"><img class="brand-normal" src="images/jankovic/logos/jcwlogo.png"/><img class="brand-mini" src="images/jankovic/logos/jcwlogo.png" alt="" width="186" height="104"/></a>
                 </div>
                 <!-- RD Navbar Nav-->
                 <div class="rd-navbar-item">
                   <div class="rd-navbar-column">
                     <div class="rd-navbar-nav-wrap" style="margin:auto;">
                       <ul class="rd-navbar-nav rd-navbar-nav-lg">
-                        <li><a href="contact.html">Contact</a>
+                        <li><a href="contact.php">Contact</a>
                         </li>
-                          <li><a href="blog.html">Blog</a>
+                          <li><a href="blog.php">Blog</a>
                           </li>
                       </ul>
                       <div class="rd-navbar-nav-hidden">
                         <!-- RD Navbar Nav-->
                         
                         <ul class="rd-navbar-nav">
-                          <li class="active"><a href="index.html">Home</a>
+                          <li class="active"><a href="index.php">Home</a>
   
-                          <li><a href="about-us.html">About</a>
+                          <li><a href="about-us.php">About</a>
                             <!-- RD Navbar Dropdown-->
                             <ul class="rd-navbar-dropdown">
-                              <li><a href="chiropractic.html">Chiropractic</a></li>
-                          <li><a href="massage.html">Massage</a></li>
-                          <li><a href="nutrition.html">Nutrition</a></li>
-                          <li><a href="allergy.html">Allergy</a></li>
+                              <li><a href="chiropractic.php">Chiropractic</a></li>
+                          <li><a href="massage.php">Massage</a></li>
+                          <li><a href="nutrition.php">Nutrition</a></li>
+                          <li><a href="allergy.php">Allergy</a></li>
                             </ul>
                           </li>
-                          <li><a href="contact.html">Contact</a></li>
-                          <li><a href="blog.html">Blog</a></li>
+                          <li><a href="contact.php">Contact</a></li>
+                          <li><a href="blog.php">Blog</a></li>
                           </li>
                             </ul>
                           </li>
@@ -81,7 +81,7 @@
                         <div class="icon icon-xs fa fa-home"></div><a href="#">1309 Veale Road, Wilmington, DE 19810</a>
                       </li>
                       <li class="rd-navbar-info">
-                        <div class="icon icon-xs fa fa-phone"></div><a href="tel:#">1 (302) 384-8540</a>
+                        <div class="icon icon-xs fa fa-phone"></div><a href="tel:#">1 (302) 478-1443</a>
                       </li>
                       <li class="rd-navbar-info">
                         <div class="rd-navbar-social"><a class="link fa fa-twitter" style="color:black;" href="https://twitter.com/"></a><a class="link fa fa-facebook" style="color:black;" href="https://www.facebook.com/"></a><a class="link fa fa-instagram" style="color:black;" href="https://www.instagram.com/"></a></div>

@@ -18,13 +18,13 @@
           <!-- Swiper-->
           <div class="swiper-container swiper-slider swiper-slider-custom" data-loop="true" data-autoplay="4500" data-simulate-touch="false">
             <div class="swiper-wrapper">
-              <div class="swiper-slide" data-slide-bg="images/slider-1-1-1920x738.jpg">
+              <div class="swiper-slide" data-slide-bg="images/jankovic/caro-1.jpg">
                 <div class="swiper-slide-caption"></div>
               </div>
-              <div class="swiper-slide" data-slide-bg="images/slider-1-2-1920x738.jpg">
+              <div class="swiper-slide" data-slide-bg="images/jankovic/caro-3.jpg">
                 <div class="swiper-slide-caption"></div>
               </div>
-              <div class="swiper-slide" data-slide-bg="images/slider-1-3-1920x738.jpg">
+              <div class="swiper-slide" data-slide-bg="images/jankovic/caro-2.jpg">
                 <div class="swiper-slide-caption"></div>
               </div>
             </div>
@@ -72,11 +72,12 @@
           <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Company overview</span></h1>
           <p class="subtitle">about our company</p>
           <div class="row row-20 justify-content-around number-counter">
-            <div class="col-md-6 text-left">
-              <p class="big">At Jankovic Chiropractic, Dr. Steve Jankovic provides both gentle chiropractic treatments and holistic health services. During each patient visit, he combines several holistic health modalities including chiropractic manipulation, kinesiology, nutrition evaluation, and a stress/emotional evaluation to optimize healing.</p>
+            <div class="col-md-6 text-left cushycms" title="overview-one">
+              <p class="big">At Jankovic Chiropractic & Wellness, Dr. Steve Jankovic provides both gentle chiropractic treatments and holistic health services. During each patient visit, he combines several holistic health modalities including chiropractic manipulation, kinesiology, nutrition evaluation, and a stress/emotional evaluation to optimize healing.</p>
             </div>
-            <div class="col-md-6 text-left">
-              <p class="big">Jankovic Chiropractic can provide many avenues of healing through chiropractic care, nutritional supplementation, learning and practicing stress reduction techniques. We are able to restore your health and it is our desire to help you live your best life. Many different approaches to health care are conidered as we desire the best way for your body to heal fully.</p>
+            <div class="col-md-6 text-left cushycms" title="overview-two">
+              <p class="big">In addition to delivering comprehensive chiropractic care, the health professionals at Jankovic Chiropractic offer a full scope of complementary services, ranging from massage therapy, allergy treatment and management, to health coaching, weight loss management, and nutrition counseling. Our goal is to optimize your overall health and well-being, ultimately improving your quality of life.
+              </p>
             </div>
             <!--
             <div class="col-md-3 text-gray">
@@ -101,7 +102,7 @@
               </div>
             </div>-->
           </div>
-          <div class="button-custom-wrapper"><a class="button button-primary" href="about-us.html">Read more about us</a></div> 
+          <div class="button-custom-wrapper"><a class="button button-primary" href="about-us.php">Read more about us</a></div> 
         </div>
       </section>
       <!-- Chiropractic Section -->
@@ -109,14 +110,14 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/picture.jpg" alt="" width="300" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/chiro.jpg" alt="" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
               <div class="row justify-content-center">
                 <div class="col-lg-8">
                   <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="" width="58" height="60"/>Chiropractic Services</span></h1>
-                  <p>Chiropractic helps your body heal naturally by using spinal adjustments to correct vertebral misalignments in the spine. Dr. Jankovic uses many different techniques to correct vertebral subluxations, most of which are gentile, low force techniques.</p><a class="button button-primary" href="chiropractic.html">Learn More</a>
+                  <p class="cushycms" title="chiropractic">Chiropractic helps your body heal naturally by using spinal adjustments to correct vertebral misalignments in the spine. Dr. Jankovic uses many different techniques to correct vertebral subluxations, most of which are gentile, low force techniques.</p><a class="button button-primary" href="chiropractic.php">Learn More</a>
                 </div>
               </div>
             </div>
@@ -128,14 +129,14 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0 flex-lg-row-reverse">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/chiro.jpg" alt="" width="300" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/massage.jpg" alt="" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
               <div class="row justify-content-center">
                 <div class="col-lg-8">
                   <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-3-57x60.png" alt="" width="57" height="60"/>Massage Services</span></h1>
-                  <p>This is a description example of different massage services offered through Jankovic Chiropractic.</p><a class="button button-primary" href="massage.html">Learn More</a>
+                  <p class="cushycms" title="massage">We offer a wide range of massage services, including Myofascial release, swedish, deep tissue, and trigger point therapy,.</p><a class="button button-primary" href="massage.php">Learn More</a>
                 </div>
               </div>
             </div>
@@ -149,8 +150,8 @@
             <div class="col-md-6 d-flex">
               <div class="cta bg-image bg-cta-1">
                 <div class="cta-inner">
-                  <h3 class="title">Advanced <a href="allergy.html">Allergy</a> Therapeutics</h3>
-                  <h6 class="exeption">A highly effective, alternative therapy in treating allergies and sensitivities.</h6><a class="button button-primary" href="allergy.html">Learn More</a>
+                  <h3 class="title">Advanced <a href="allergy.php">Allergy</a> Therapeutics</h3>
+                  <h6 class="exeption">A highly effective, alternative therapy in treating allergies and sensitivities.</h6><a class="button button-primary" href="allergy.php">Learn More</a>
                 </div>
               </div>
             </div>
@@ -158,7 +159,7 @@
               <div class="cta bg-image bg-cta-2">
                 <div class="cta-inner">
                   <h3 class="title">Nutrition Assessment</h3>
-                  <h6 class="exeption">Based on blood work analysis, organ and endocrine system evaluation.</h6><a class="button button-primary" href="nutrition.html">Learn More</a>
+                  <h6 class="exeption">Based on blood work analysis, organ and endocrine system evaluation.</h6><a class="button button-primary" href="nutrition.php">Learn More</a>
                 </div>
               </div>
             </div>
@@ -173,7 +174,7 @@
               <div class="row justify-content-center">
                 <div class="col-md-10">
                   <h2 class="heading-decorative"><span><img src="images/typography-image-5-83x72.png" alt="" width="83" height="72"/>Change Your Lifestyle</span></h2>
-                  <p class="big">Care Chiropractic Center will educate and support people on their journeys toward health and well-being by introducing them to natural, gentle, noninvasive treatments.</p>
+                  <p class="big">Jankovic Chiropractic will educate and support people on their journeys toward health and well-being by introducing them to natural, gentle, noninvasive treatments.</p>
                 </div>
               </div>
               <div class="highlited-box offset-top-1">
@@ -183,14 +184,20 @@
           </div>
         </div>
       </section>
+      
+     <!-- Testimonials-->
+     <?php include 'sections/testimonials.php';?>
+     
+     
       <!-- Social Media-->
       <section class="section section-lg bg-default">
         <div class="container text-center">
           <h1 class="heading-decorative"><span><img src="images/typography-image-2-58x60.png" alt="" width="58" height="60"/>Social Media</span></h1>
+          <h2>Coming Soon</h2>
           <!-- Owl Carousel-->
-          <div class="owl-carousel" data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="3" data-xl-items="3" data-xxl-items="3" data-dots="true" data-nav="true" data-stage-padding="28" data-xxl-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
+          <!-- <div class="owl-carousel" data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="3" data-xl-items="3" data-xxl-items="3" data-dots="true" data-nav="true" data-stage-padding="28" data-xxl-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
             <div class="price-box">
-              <div class="figure"><a href="single-product.html"><img src="images/jankovic/lobby.jpg" alt="" width="370" height="270"/></a></div>
+              <div class="figure"><a href="single-product.html"><img src="images/jankovic/sunflower.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
                 <div class="title"><a href="blog.html">Blog Post Example</a></div>
                 <p class="exeption">This is an example blog post caption</p>
@@ -198,7 +205,7 @@
               </div>
             </div>
             <div class="price-box">
-              <div class="figure"><a href="single-product.html"><img src="images/jankovic/oils.jpg" alt="" width="370" height="270"/></a></div>
+              <div class="figure"><a href="single-product.html"><img src="images/jankovic/plants.jpg" alt="" width="370" height="270"/></a></div>
               <div class="caption">
                 <div class="title"><a href="blog.html">Instagram Post Example</a></div>
                 <p class="exeption">This is an example social media post caption</p>
@@ -216,7 +223,7 @@
             <!--
             <div class="price-box">
               <div class="figure"><a href="single-product.html"><img src="images/product-category-7-370x270.jpg" alt="" width="370" height="270"/></a></div>
-              <div class="caption">
+              <div class="caption">_
                 <div class="title"><a href="single-product.html">Handmade Soap</a></div>
                 <p class="exeption">A true beauty, each piece of this handmade soap will put a smile on your face with the refreshing tingle of peppermint and the aroma of lemongrass.</p>
                 <p class="price">$25.90</p><a class="button button-primary" href="#">Buy on amazon</a>
