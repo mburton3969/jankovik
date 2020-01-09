@@ -5,18 +5,18 @@
             <div class="col-sm-6 col-md-3">
               <h1 class="heading-decorative">Home</h1>
               <ul class="list-marked text-primary font-weight-bold">
-                <li><a href="about-us.html">About Us</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about-us.php">About Us</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="blog.php">Blog</a></li>
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
               <h1 class="heading-decorative">Services</h1>
               <ul class="list-marked text-primary font-weight-bold">
-                <li><a href="chiropractic.html">Chiropractic</a></li>
-                <li><a href="massage.html">Massage</a></li>
-                <li><a href="allergy.html">Allergy</a></li>
-                <li><a href="nutrition.html">Nutrition</a></li>
+                <li><a href="chiropractic.php">Chiropractic</a></li>
+                <li><a href="massage.php">Massage</a></li>
+                <li><a href="allergy.php">Allergy</a></li>
+                <li><a href="nutrition.php">Nutrition</a></li>
               </ul>
             </div>
             <div class="col-sm-12 col-md-5 col-lg-4 col-xl-3">
@@ -27,7 +27,7 @@
               </ul>
               <h1 class="heading-decorative">Newsletter</h1>
               <!-- RD Mailform-->
-              <form class="rd-mailform rd-mailform-inline rd-mailform-icon text-left" data-form-output="form-output-global" data-form-type="forms" method="post" action="bat/rd-mailform.html">
+              <form class="rd-mailform rd-mailform-inline rd-mailform-icon text-left" data-form-output="form-output-global" data-form-type="forms" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap">
                   <label class="form-label" for="inline-email-footer">mail@demolink.org</label>
                   <input class="form-input" id="inline-email-footer" type="email" name="email" data-constraints="@Email @Required">
