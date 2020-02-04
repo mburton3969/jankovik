@@ -22,6 +22,7 @@ if (isset($_POST['submit'])) {
 	
 	$mailTo = "info@ignition-innovations.com";
 	$headers = "From: " .$mailFrom;
+	$headers .= "Bcc: info@ignition-innovations.com" . "\r\n";
 	$txt = "You have received an email from " .$name.".\n\n".$message;
 	
 	mail($mailTo, $subject, $txt, $headers);
