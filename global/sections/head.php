@@ -6,7 +6,6 @@
     <meta name="google-site-verification" content="cN73CaG4l7i21ibVH7aqsdd9bJHDEymEujUXIOo_rwc" />
     
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="robots" content="noindex" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
