@@ -2,7 +2,7 @@
     <title>Jankovic Chiropractic & Wellness</title>
     <meta name="format-detection" content="telephone=no">
     <meta name= "description" content="At Jankovic Chiropractic & Wellness, Dr. Steve Jankovic provides both gentle chiropractic treatments and holistic health services. During each patient visit, he combines several holistic health modalities, optimizing overall health and well-being and ultimately improving quality of life.">
-    <meta name= "keywords" content= "chiropractic,adjust chiropractic,family chiropractic,chiropractic care,health and wellness,scoliosis,what is scoliosis,sports chiropractic,holistic,chronic pain,chiropractor wilmington de,best chiropractic wilmington">
+    <meta name= "keywords" content= "chiropractic,adjust chiropractic,family chiropractic,chiropractic care,health and wellness,scoliosis,what is scoliosis,sports chiropractic,holistic,chronic pain,chiropractor wilmington delaware,best chiropractic wilmington,massage,massage near me,advanced allergy therapeutics,jankovic,jankovic chiropractic,care chiropractic,how to have a healthy lifestle,living a healthy lifestyle,digestive,digestive system,digestive enzymes,hormone health,holistic health,holistic health practitioner,delaware chiropractic,chiropractic hockesson delaware,chiropractic claymont delaware,nutrition and exercise concepts delaware,massage delaware,massage wilmington delaware,delaware massage therapy,massage therapy delaware,">
     <meta name="google-site-verification" content="cN73CaG4l7i21ibVH7aqsdd9bJHDEymEujUXIOo_rwc" />
     
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
