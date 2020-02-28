@@ -69,11 +69,11 @@
       <!-- Company overview-->
       <section class="section section-lg bg-default">
         <div class="container text-center">
-          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Company overview</span></h1>
+          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Chiropractic & Wellness</span></h1>
           <p class="subtitle">about our company</p>
           <div class="row row-20 justify-content-around number-counter">
             <div class="col-md-6 text-left cushycms" title="overview-one">
-              <p class="big">At Jankovic Chiropractic & Wellness, Dr. Steve Jankovic provides both gentle chiropractic treatments and holistic health services. During each patient visit, he combines several holistic health modalities including chiropractic manipulation, kinesiology, nutrition evaluation, and a stress/emotional evaluation to optimize healing.</p>
+              <p class="big">At Jankovic Chiropractic & Wellness, Dr. Steve Jankovic provides both gentle chiropractic treatments and holistic health services. During each patient visit, he combines several holistic health modalities including chiropractic manipulation, kinesiology, nutrition evaluation, and a stress/emotional evaluation to optimize healing. His practice is conveniently located right off of Veale & Marsh Road split in Wilmington, Delaware.</p>
             </div>
             <div class="col-md-6 text-left cushycms" title="overview-two">
               <p class="big">In addition to delivering comprehensive chiropractic care, the health professionals at Jankovic Chiropractic offer a full scope of complementary services, ranging from massage therapy, allergy treatment and management, to health coaching, weight loss management, and nutrition counseling. Our goal is to optimize your overall health and well-being, ultimately improving your quality of life.
