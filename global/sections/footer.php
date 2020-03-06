@@ -35,9 +35,9 @@
                 </div>
               </form>
               <ul class="list-inline list-inline-sm">
-                <li><a class="icon fa-facebook" href="#"></a></li>
-                <li><a class="icon fa-instagram" href="#"></a></li>
-                <li><a class="icon fa-twitter" href="#"></a></li>
+                <!--<a class="link fa fa-twitter" style="color:black;" href="https://twitter.com/"></a>-->
+                <a class="link fa fa-facebook" style="color:black;" href="https://www.facebook.com/Jankovic-Chiropractic-Wellness-824454307697098/"></a>
+                <a class="link fa fa-instagram" style="color:black;" href="https://www.instagram.com/jankovicchiropractic/"></a>
               </ul>
             </div>
           </div>
