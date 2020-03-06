@@ -84,7 +84,11 @@
                         <div class="icon icon-xs fa fa-phone"></div><a href="tel:#">1 (302) 478-1443</a>
                       </li>
                       <li class="rd-navbar-info">
-                        <div class="rd-navbar-social"><a class="link fa fa-twitter" style="color:black;" href="https://twitter.com/"></a><a class="link fa fa-facebook" style="color:black;" href="https://www.facebook.com/"></a><a class="link fa fa-instagram" style="color:black;" href="https://www.instagram.com/"></a></div>
+                        <div class="rd-navbar-social">
+                        <!--<a class="link fa fa-twitter" style="color:black;" href="https://twitter.com/"></a>-->
+                        <a class="link fa fa-facebook" style="color:black;" href="https://www.facebook.com/Jankovic-Chiropractic-Wellness-824454307697098/"></a>
+                        <a class="link fa fa-instagram" style="color:black;" href="https://www.instagram.com/jankovicchiropractic/"></a>
+                        </div>
                       </li>
                     </ul>
                   </div>
