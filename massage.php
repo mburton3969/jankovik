@@ -18,7 +18,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-10 col-xxl-8">
-              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
+              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="Image" width="49" height="43"/>
                 <h2>Massage Care</h2>
                 <ol class="breadcrumbs-custom">
                   <li><a href="./">Home</a></li>
@@ -34,11 +34,11 @@
       <!-- Company History-->
       <section class="section section-lg section-lg-bottom-40 bg-default text-center">
         <div class="container">
-          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Our Massage Services</span></h1>
+          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Our Massage Services</span></h1>
           <p class="subtitle">Wellness & Relaxation</p>
           <div class="row row-35 justify-content-center text-left">
             <div class="col-md-10 col-lg-5 col-xl-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/massage-bottle.jpg" alt="" width="571" height="246"/>
+              <div class="column-image-wrap"><img src="images/jankovic/massage-bottle.jpg" alt="Image" width="571" height="246"/>
               </div>
             </div>
             <div class="col-md-10 col-lg-7 col-xl-6">
@@ -62,7 +62,7 @@
             <!-- Treatment -->
 	<section class="section section-lg bg-accent context-dark">
         <div class="container text-center">
-          <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-4-58x60.png" alt="" width="58" height="60"/>Treatment Methods</span></h1>
+          <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-4-58x60.png" alt="Image" width="58" height="60"/>Treatment Methods</span></h1>
         <div class="container">
           <div class="row row-10 justify-content-center text-left cushycms" title="massage-treatments">
             <div class="col-md-12 text-center">

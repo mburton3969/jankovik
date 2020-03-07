@@ -53,7 +53,7 @@
               <div class="row justify-content-center">
                 <div class="col-md-9 col-xl-8">
                   <div class="jumbotron-custom">
-                    <div class="light-box" style="opacity: 0.8;"><img src="images/jankovic/logos/logo.jpg"/>
+                    <div class="light-box" style="opacity: 0.8;"><img src="images/jankovic/logos/logo.jpg" alt="Image"/>
                       <!-- <h2 class="title"></h2>
                        <div class="exeption">100% Natural and Active ingredients, without water, mineral oils, propylene glycol and other petrochemicals, phthalates, perfumes, dyes, triethanolamine, parabens etc.</div> 
                     </div>
@@ -69,7 +69,7 @@
       <!-- Company overview-->
       <section class="section section-lg bg-default">
         <div class="container text-center">
-          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Chiropractic & Wellness</span></h1>
+          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Chiropractic & Wellness</span></h1>
           <p class="subtitle">about our company</p>
           <div class="row row-20 justify-content-around number-counter">
             <div class="col-md-6 text-left cushycms" title="overview-one">
@@ -110,13 +110,13 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/chiro.jpg" alt="" width="300" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/chiropractic.jpg" alt="Chiropractic Treatment" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
               <div class="row justify-content-center">
                 <div class="col-lg-8">
-                  <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="" width="58" height="60"/>Chiropractic Services</span></h1>
+                  <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="Chiropractic Treatment" width="58" height="60"/><b>Chiropractic Services</b></span></h1>
                   <p class="cushycms" title="chiropractic">Chiropractic helps your body heal naturally by using spinal adjustments to correct vertebral misalignments in the spine. Dr. Jankovic uses many different techniques to correct vertebral subluxations, most of which are gentile, low force techniques.</p><a class="button button-primary" href="chiropractic.php">Learn More</a>
                 </div>
               </div>
@@ -129,13 +129,13 @@
         <div class="container text-center">
           <div class="row justify-content-center row-0 flex-lg-row-reverse">
             <div class="col-md-8 col-lg-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/massage.jpg" alt="" width="300" height="403"/>
+              <div class="column-image-wrap"><img src="images/jankovic/massage.jpg" alt="Image" width="300" height="403"/>
               </div>
             </div>
             <div class="col-md-8 col-lg-6 section-xs-1">
               <div class="row justify-content-center">
                 <div class="col-lg-8">
-                  <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-3-57x60.png" alt="" width="57" height="60"/>Massage Services</span></h1>
+                  <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-3-57x60.png" alt="Image" width="57" height="60"/>Massage Services</span></h1>
                   <p class="cushycms" title="massage">We offer a wide range of massage services, including Myofascial release, swedish, deep tissue, and trigger point therapy,.</p><a class="button button-primary" href="massage.php">Learn More</a>
                 </div>
               </div>
@@ -173,7 +173,7 @@
             <div class="col-md-10 col-xl-8">
               <div class="row justify-content-center">
                 <div class="col-md-10">
-                  <h2 class="heading-decorative"><span><img src="images/typography-image-5-83x72.png" alt="" width="83" height="72"/>Change Your Lifestyle</span></h2>
+                  <h2 class="heading-decorative"><span><img src="images/typography-image-5-83x72.png" alt="Image" width="83" height="72"/>Change Your Lifestyle</span></h2>
                   <p class="big">Jankovic Chiropractic will educate and support people on their journeys toward health and well-being by introducing them to natural, gentle, noninvasive treatments.</p>
                 </div>
               </div>
