@@ -18,7 +18,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-10 col-xxl-8">
-              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
+              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="Image" width="49" height="43"/>
                 <h2>Nutrition</h2>
                 <ol class="breadcrumbs-custom">
                   <li><a href="./">Home</a></li>
@@ -34,7 +34,7 @@
       <!-- Company History-->
       <section class="section section-lg section-lg-bottom-40 bg-default text-center">
         <div class="container">
-          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Nutrition Assessment</span></h1>
+          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Nutrition Assessment</span></h1>
           <!-- <p class="subtitle">about our company</p> -->
           <div class="row row-35 justify-content-center text-left">
           <div class="col-md-10 col-lg-10 col-xl-10 text-center cushycms" title="nutrition-overview">
@@ -49,7 +49,7 @@
               	<!--Supplements-->
                 <div class="col-lg-12">
                   <div class="bordered-box">
-                    <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="" width="58" height="60"/>Nutrition & Supplement Evaluation</span></h1>
+                    <h1 class="heading-decorative"><span><img class="image-center" src="images/typography-image-2-58x60.png" alt="Image" width="58" height="60"/>Nutrition & Supplement Evaluation</span></h1>
                   <p class="big cushycms" title="supplements-one"> A whole food anti-inflammatory nutrition plan is absolutely necessary to overall health and well-being. There is, however, scientific evidence which supports the need for fundamental nutrient supplementation, even in the healthiest of diets. Nutrient deficiencies can lead to a variety of health challenges. In order to function properly, the body requires many different vitamins and minerals. Supplementation with high-quality, professional-grade products is beneficial for health maintenance, and also extremely useful in healing various conditions and health challenges. 
                   </p>
                   </div>
@@ -95,11 +95,11 @@
        <!-- FEATURED -->
       <section class="section section-lg section-lg-bottom-40 bg-default text-center">
         <div class="container">
-          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/><b style="font-size: 15px;">Featured Treatment Services</b></span> <br />Methylation</h1>
+          <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/><b style="font-size: 15px;">Featured Treatment Services</b></span> <br />Methylation</h1>
           <h4 class="subtitle">For Healing & Nutrition</h4>
           <div class="row row-35 justify-content-center text-left">
             <div class="col-md-10 col-lg-5 col-xl-6 column-image">
-              <div class="column-image-wrap"><img src="images/jankovic/methylation.jpg" alt="" width="571" height="246"/>
+              <div class="column-image-wrap"><img src="images/jankovic/methylation.jpg" alt="Image" width="571" height="246"/>
               </div>
             </div>
             <div class="col-md-10 col-lg-7 col-xl-6">

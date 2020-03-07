@@ -18,7 +18,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-10 col-xxl-8">
-              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
+              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="Image" width="49" height="43"/>
                 <h2>Allergy Relief and Management</h2>
                 <ol class="breadcrumbs-custom">
                   <li><a href="./">Home</a></li>
@@ -126,27 +126,27 @@
               <!-- <h2 class="text-center" style="font-family: 'Satisfy', cursive; font-size: 45px; color: #28286c;">Events Gallery</h2> -->
               <div class="row row-30 justify-content-center" data-lightgallery="group">
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-1.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-1.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-1.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-2.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-2.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-2.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-3.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-3.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-3.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-4.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-4.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-4.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-6.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-6.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-6.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
             <div class="col-sm-6 col-md-4"><a class="thumbnail-classic" data-lightgallery="item" href="images/jankovic/aat-5.jpg">
-                <div class="thumbnail-overlay"><img src="images/jankovic/aat-5.jpg" alt="" width="370" height="345"/>
+                <div class="thumbnail-overlay"><img src="images/jankovic/aat-5.jpg" alt="Image" width="370" height="345"/>
                 </div></a>
             </div>
           </div>

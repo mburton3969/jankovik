@@ -18,7 +18,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-10 col-xxl-8">
-              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
+              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="Image" width="49" height="43"/>
                 <h2>About us</h2>
                 <ol class="breadcrumbs-custom">
                   <li><a href="./">Home</a></li>

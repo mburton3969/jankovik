@@ -4,7 +4,7 @@
         <div class="container text-center">
           <div class="row justify-content-center row-20">
             <div class="col-md-10 col-xl-8">
-              <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Coming soon</span></h1>
+              <h1 class="heading-decorative"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Coming soon</span></h1>
             </div>
             <div class="col-md-10">
               <div class="countdown-wrap block-centered">

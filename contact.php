@@ -18,7 +18,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-10 col-xxl-8">
-              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="" width="49" height="43"/>
+              <div class="breadcrumb-wrapper"><img src="images/image-icon-1-49x43.png" alt="Image" width="49" height="43"/>
                 <h2>Contact</h2>
                 <ol class="breadcrumbs-custom">
                   <li><a href="./">Home</a></li>
@@ -35,7 +35,7 @@
         <div class="container text-center">
           <div class="row row-40 text-left">
             <div class="col-sm-12 col-lg-6">
-            	<h1 class="heading-decorative text-center"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Our Location</span></h1>
+            	<h1 class="heading-decorative text-center"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Our Location</span></h1>
            <p class="subtitle text-center">Appointments & Walk-Ins Welcome</p>
             <br />
             
@@ -81,7 +81,7 @@
               <!-- Contact form-->
 
             <div class="col-sm-12 col-lg-6">
-             <h1 class="heading-decorative text-center"><span><img src="images/typography-image-1-83x72.png" alt="" width="83" height="72"/>Contact Us</span></h1>
+             <h1 class="heading-decorative text-center"><span><img src="images/typography-image-1-83x72.png" alt="Image" width="83" height="72"/>Contact Us</span></h1>
            	<p class="subtitle text-center">Schedule Your Consultation Today!</p>
            	<br />
            	
